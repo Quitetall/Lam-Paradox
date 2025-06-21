@@ -1,0 +1,3 @@
+- Lam Index: A system to measure how effectively an LLM can focus logic space toward a desired output given constraints on prompt clarity and compute.
+- Inspired by flashlight metaphor: how well can a weak prompt still reach a complex logic node?
+- Unlike task accuracy, this captures the **efficiency of logic emergence**, not correctness alone.
