@@ -7,7 +7,7 @@ The Lam Paradox describes a fundamental limit in large language models: even if 
 How I like to think about it is this:
 1. Given sufficient compute, any LLM with embedded logic can completely map every permutation of that logic possible, including more complex logic not known by humans.
 2. Due to the exponentially rising compute costs of logic space, it is impossible to completely map logic space. This is the Lam Paradox.
-3. Llms are inherently logic incomplete, although they can access a majority of the logic they can produce, there will eventually be a compute limit, and given a lack of direction, this limit may not even be possible to reach. We may only ever see what humans or AI itself can direct itself towards.
+3. Llms are inherently logic incomplete, although they can access a large amount of the logic they can produce, there will eventually be a compute limit, and given a lack of direction, this limit may not even be possible to reach. We may only ever see what humans or AI itself can direct itself towards.
 
 This paper aims to quantify that limit based on realistic data, estimations of reasonable improvements, and provide rational means to improve LLM development.
 
