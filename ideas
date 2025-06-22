@@ -1,3 +1,22 @@
 - Lam Index: A system to measure how effectively an LLM can focus logic space toward a desired output given constraints on prompt clarity and compute.
-- Inspired by flashlight metaphor: how well can a weak prompt still reach a complex logic node?
-- Unlike task accuracy, this captures the **efficiency of logic emergence**, not correctness alone.
+- Inspired by flashlight metaphor: If you keep direction (prompting strategy) the same, how weak can you shine the flashlight and still have the wall br illuminated? How well can a weak prompt still reach a complex logic node?
+- Unlike task accuracy, this captures the efficiency of logic emergence, not correctness alone.
+
+Logic Space- The set of all possible permutations of logical statements in a closed set of logical statments.
+Formal Definition-
+
+Accessible Logic Space-
+Formal Definition-
+
+Flashlight Constraint
+Formal Definition-
+
+Embedded Logic
+Formal Definition-
+
+Logic Density
+Formal Definition
+
+
+
+Experiment: Toy LLM trained with emphasis on logical statements and enbedded logic being tested via Lam Index. Weaker and weaker prompts will be used to determine ability for toy LLM to achieve a desired logic node. Experimental details in detail will be provided in the paper.
